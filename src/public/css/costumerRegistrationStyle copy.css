@@ -50,6 +50,7 @@ body {
 }
 
 .inputStyle {
+    margin-top: 5px;
     height: 35px;
     border-radius: 15px;
     background-color: var(--color-background);
@@ -90,7 +91,7 @@ body {
 }
 
 .blockDivision {
-    width: 900px;
+    width: 500px;
 }
 
 /* REGISTER SECTION */
@@ -98,11 +99,13 @@ body {
     display: flex;
     flex-direction: row;
     width: 985px;
-    height: 563px;
+    height: 430px;
     background-color: var(--color-panel);
     margin: 5px 0px 0px 0px;
     border-radius: 5px;
 }
+
+
 
 /* RODAPE */
 
